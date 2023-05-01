@@ -1,4 +1,4 @@
-[!logo](hello-world-banner-2.jpg)
+![logo](hello-world-banner-2.jpg)
 <h1 align="center">Hey 👋, I'm Shashwati</h1>
 <h3 align="center">I am extremely passionate about software development and I have a strong sense of enthusiasm for it.</h3>
 <img align ="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
