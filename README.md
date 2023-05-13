@@ -4,7 +4,7 @@
 <img align ="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwati13&label=Profile%20views&color=0e75b6&style=flat" alt="shashwati13" /> </p>
 
-- 🔭 I’m currently working on **House Rental Project** *https://main--jovial-clafoutis-fb68dd.netlify.app/*
+- 🔭 I’m currently working on **House Rental Project** - *https://main--jovial-clafoutis-fb68dd.netlify.app/*
 
 - 💬 Ask me about **MERN, React, Python**
 
