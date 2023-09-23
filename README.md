@@ -11,6 +11,7 @@
 - 📫 How to reach me **shashwatidiware@gmail.com**
 
 - My portfolio **https://shashwati-diware.web.app/**
+- My Leetcode **https://leetcode.com/Shashwati_13/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
